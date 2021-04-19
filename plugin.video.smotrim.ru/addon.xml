@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="plugin.video.smotrim.ru"
-    version="1.0.1"
+    version="1.0.2"
     name="Smotrim.ru"
     provider-name="Alex Bratchik">
     <requires>
@@ -12,7 +12,7 @@
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <news>First release through abratchik Kodi repository</news>
+        <news>Fix of the issue with opening the addon</news>
         <summary lang="en_GB">Smotrim.ru Kodi Video Addon</summary>
         <description lang="en_GB">We have collected for you on one site and in the application all the most important,
         </description>
