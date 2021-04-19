@@ -12,8 +12,8 @@
         <news>First release</news>
         <summary lang="en_GB">Alex Bratchik Kodi repository</summary>
         <description lang="en_GB">Thsi repository is created for distributing my own Kodi plugins. Enjoy!</description>
-        <disclaimer lang="en_GB">This repository is non-commercial GPL-3. You may use it as is at your own
-            discretion and risk.</disclaimer>
+        <disclaimer lang="en_GB">This repository is non-commercial GPL-3. You may use it as is at your own discretion and risk.
+        </disclaimer>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
