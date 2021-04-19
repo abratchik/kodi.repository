@@ -4,9 +4,9 @@
     name="Alex Bratchik Kodi repository"
     provider-name="Alex Bratchik">
     <extension point="xbmc.addon.repository">
-        <info>https://github.com/abratchik/kodi.repository/blob/master/addons.xml</info>
-        <checksum>https://github.com/abratchik/kodi.repository/blob/master/addons.xml.md5</checksum>
-        <datadir>https://github.com/abratchik/kodi.repository/blob/master/</datadir>
+        <info compressed="false">https://abratchik.github.io/kodi.repository/addons.xml</info>
+        <checksum>https://abratchik.github.io/kodi.repository/addons.xml.md5</checksum>
+        <datadir>https://abratchik.github.io/kodi.repository/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <news>First release</news>
