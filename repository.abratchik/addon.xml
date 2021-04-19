@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="repository.abratchik"
+    version="1.0.0"
+    name="Alex Bratchik Kodi repository"
+    provider-name="Alex Bratchik">
+    <extension point="xbmc.addon.repository">
+        <info>https://github.com/abratchik/kodi.repository/addons.xml</info>
+        <checksum>https://github.com/abratchik/kodi.repository/addons.xml.md5</checksum>
+        <datadir>https://github.com/abratchik/kodi.repository/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <news>First release</news>
+        <summary lang="en_GB">Alex Bratchik Kodi repository</summary>
+        <description lang="en_GB">Thsi repository is created for distributing my own Kodi plugins. Enjoy!</description>
+        <disclaimer lang="en_GB">This repository is non-commercial GPL-3. You may use it as is at your own
+            discretion and risk.</disclaimer>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
