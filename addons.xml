@@ -16,7 +16,7 @@
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
-</addon><addon id="plugin.video.smotrim.ru" name="Smotrim.ru" provider-name="Alex Bratchik" version="1.0.2">
+</addon><addon id="plugin.video.smotrim.ru" name="Smotrim.ru" provider-name="Alex Bratchik" version="1.0.3">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.requests" />
@@ -26,7 +26,7 @@
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <news>Fix of the issue with opening the addon</news>
+        <news>Lots of new features and bug fixes. Added Top-level menu of video categories</news>
         <summary lang="en_GB">Smotrim.ru Kodi Video Addon</summary>
         <description lang="en_GB">We have collected for you on one site and in the application all the most important, interesting and favorite from the TV channels and radio stations of the All-Russian State Television and Radio Broadcasting Company. "Smotrim.ru" is news in real time, talk shows, feature films and documentaries, TV series premieres and children's programs.
         </description>
@@ -35,7 +35,7 @@
         <summary lang="ru_RU">Дополнение Kodi для Smotrim.ru</summary>
         <description lang="ru_RU">Мы собрали для вас на одном сайте и в мобильном приложении все самое важное, интересное и любимое с телеканалов и радиостанций ВГТРК. "Смотрим" — это новости в реальном времени, ток-шоу, художественные и документальные фильмы, премьеры сериалов и детские передачи.
         </description>
-        <disclaimer lang="ru_RU">Это некоммерческий плагин для веб-сайта Smotrim.ru, поддерживаемый сообществом. Он создан для просмотра русских программ на экране телевизора, просто для развлечения и не имеет отношения к компании ВГТРК
+        <disclaimer lang="ru_RU">Это некоммерческий плагин для веб-сайта Smotrim.ru, поддерживаемый сетевым сообществом. Он создан для просмотра русских программ на экране телевизора, просто для развлечения и не имеет отношения к компании ВГТРК
         </disclaimer>
         <assets>
             <icon>icon.png</icon>
