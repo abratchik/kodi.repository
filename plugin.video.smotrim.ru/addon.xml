@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="plugin.video.smotrim.ru"
-    version="1.0.3"
+    version="1.0.4"
     name="Smotrim.ru"
     provider-name="Alex Bratchik">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.requests"/>
-        <import addon="script.module.youtube.dl"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="main.py">
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <news>Lots of new features and bug fixes. Added Top-level menu of video categories</news>
-        <summary lang="en_GB">Smotrim.ru Kodi Video Addon</summary>
-        <description lang="en_GB">We have collected for you on one site and in the application all the most important, interesting and favorite from the TV channels and radio stations of the All-Russian State Television and Radio Broadcasting Company. "Smotrim.ru" is news in real time, talk shows, feature films and documentaries, TV series premieres and children's programs.
+        <news>Corrected playback for titles with video and audio episodes (thanks to Evld!); added search by categories</news>
+        <summary lang="en_US">Smotrim.ru Kodi Video Addon</summary>
+        <description lang="en_US">We have collected for you on one site and in the application all the most important, interesting and favorite from the TV channels and radio stations of the All-Russian State Television and Radio Broadcasting Company. "Smotrim.ru" is news in real time, talk shows, feature films and documentaries, TV series premieres and children's programs.
         </description>
-        <disclaimer lang="en_GB">This is a non-commercial community-supported plugin for the Smotrim.ru web site. It has been created for watching Russian programs on the TV screen, just for fun and has no relation to the VGTRK company
+        <disclaimer lang="en_US">This is a non-commercial community-supported plugin for the Smotrim.ru web site. It has been created for watching Russian programs on the TV screen, just for fun and has no relation to the VGTRK company
         </disclaimer>
         <summary lang="ru_RU">Дополнение Kodi для Smotrim.ru</summary>
         <description lang="ru_RU">Мы собрали для вас на одном сайте и в мобильном приложении все самое важное, интересное и любимое с телеканалов и радиостанций ВГТРК. "Смотрим" — это новости в реальном времени, ток-шоу, художественные и документальные фильмы, премьеры сериалов и детские передачи.
