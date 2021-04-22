@@ -11,7 +11,7 @@
     <extension point="xbmc.addon.metadata">
         <news>First release</news>
         <summary lang="en_GB">Alex Bratchik Kodi repository</summary>
-        <description lang="en_GB">Thsi repository is created for distributing my own Kodi plugins. Enjoy!</description>
+        <description lang="en_GB">This repository is created for distributing my own Kodi plugins. Enjoy!</description>
         <disclaimer lang="en_GB">This repository is non-commercial GPL-3. You may use it as is at your own discretion and risk.
         </disclaimer>
         <assets>
