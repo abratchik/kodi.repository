@@ -16,7 +16,7 @@
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
-</addon><addon id="plugin.video.smotrim.ru" name="Smotrim.ru" provider-name="Alex Bratchik" version="1.0.4">
+</addon><addon id="plugin.video.smotrim.ru" name="Smotrim.ru" provider-name="Alex Bratchik" version="1.0.5">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.requests" />
