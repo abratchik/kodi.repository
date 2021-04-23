@@ -13,13 +13,13 @@
             <datadir zip="true">https://abratchik.github.io/kodi.repository/</datadir>
             <hashes>true</hashes>
         </dir>
-        <dir minversion="17.0.0" maxversion="17.9.9999">
+        <dir minversion="17.0.0">
             <info compressed="false">https://abratchik.github.io/kodi.repository/leia/addons.xml</info>
             <checksum>https://abratchik.github.io/kodi.repository/leia/addons.xml.md5</checksum>
             <datadir zip="true">https://abratchik.github.io/kodi.repository/leia/</datadir>
             <hashes>true</hashes>
         </dir>
-        <dir minversion="18.0.0" maxversion="18.9.9999">
+        <dir minversion="18.0.0">
             <info compressed="false">https://abratchik.github.io/kodi.repository/matrix/addons.xml</info>
             <checksum>https://abratchik.github.io/kodi.repository/matrix/addons.xml.md5</checksum>
             <datadir zip="true">https://abratchik.github.io/kodi.repository/matrix/</datadir>
