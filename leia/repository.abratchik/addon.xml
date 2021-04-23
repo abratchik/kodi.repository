@@ -7,23 +7,15 @@
         <import addon="xbmc.addon" version="12.0.0"/>
     </requires>
     <extension point="xbmc.addon.repository" name="Alex Bratchik Kodi repository">
-        <dir minversion="12.0.0">
-            <info compressed="false">https://abratchik.github.io/kodi.repository/addons.xml</info>
-            <checksum>https://abratchik.github.io/kodi.repository/addons.xml.md5</checksum>
-            <datadir zip="true">https://abratchik.github.io/kodi.repository/</datadir>
-            <hashes>true</hashes>
-        </dir>
-        <dir minversion="17.0.0">
+        <dir minversion="18.0" maxversion="18.9.0">
             <info compressed="false">https://abratchik.github.io/kodi.repository/leia/addons.xml</info>
             <checksum>https://abratchik.github.io/kodi.repository/leia/addons.xml.md5</checksum>
             <datadir zip="true">https://abratchik.github.io/kodi.repository/leia/</datadir>
-            <hashes>true</hashes>
         </dir>
-        <dir minversion="18.0.0">
+        <dir minversion="18.9.1">
             <info compressed="false">https://abratchik.github.io/kodi.repository/matrix/addons.xml</info>
             <checksum>https://abratchik.github.io/kodi.repository/matrix/addons.xml.md5</checksum>
             <datadir zip="true">https://abratchik.github.io/kodi.repository/matrix/</datadir>
-            <hashes>true</hashes>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
