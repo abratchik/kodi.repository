@@ -2,7 +2,7 @@
 
 ## Installation
 Installation is simple - just download the latest zipped
-release from this repository and install it in Kodi 
+release from the <b>repository.abratchik</b> folder and install it in Kodi 
 using System settings.
 
 ## Disclaimer
