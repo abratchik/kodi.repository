@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="plugin.video.smotrim.ru"
-    version="1.0.8"
+    version="1.0.9"
     name="Smotrim.ru"
     provider-name="Alex Bratchik">
     <requires>
@@ -10,7 +10,7 @@
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <news>Minor cosmetic updates</news>
+        <news>Fixing issues with Matrix release</news>
         <summary lang="en_GB">Smotrim.ru Kodi Video Addon</summary>
         <description lang="en_GB">We have collected for you on one site and in the application all the most important, interesting and favorite from the TV channels and radio stations of the All-Russian State Television and Radio Broadcasting Company. "Smotrim.ru" is news in real time, talk shows, feature films and documentaries, TV series premieres and children's programs.
         </description>
