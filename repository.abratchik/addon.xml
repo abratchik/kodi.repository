@@ -4,9 +4,15 @@
     name="Alex Bratchik Kodi repository"
     provider-name="Alex Bratchik">
     <requires>
-        <import addon="xbmc.addon" verison="12.0.0"/>
+        <import addon="xbmc.addon" version="12.0.0"/>
     </requires>
     <extension point="xbmc.addon.repository" name="Alex Bratchik Kodi repository">
+        <dir minversion="12.0.0">
+            <info compressed="false">https://abratchik.github.io/kodi.repository/addons.xml</info>
+            <checksum>https://abratchik.github.io/kodi.repository/addons.xml.md5</checksum>
+            <datadir zip="true">https://abratchik.github.io/kodi.repository/</datadir>
+            <hashes>true</hashes>
+        </dir>
         <dir minversion="17.0.0" maxversion="17.9.9999">
             <info compressed="false">https://abratchik.github.io/kodi.repository/leia/addons.xml</info>
             <checksum>https://abratchik.github.io/kodi.repository/leia/addons.xml.md5</checksum>
