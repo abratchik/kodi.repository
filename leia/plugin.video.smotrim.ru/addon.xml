@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="plugin.video.smotrim.ru"
-    version="1.0.17"
+    version="1.0.18"
     name="Smotrim.ru"
     provider-name="Alex Bratchik">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.requests"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="main.py">
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <news>Added channels menu</news>
+        <news>Added registration via mobile if the mobile phone specified. Remove the phone number from settings to skip authorization</news>
         <summary lang="en_GB">Smotrim.ru Kodi Video Addon</summary>
         <description lang="en_GB">We have collected for you on one site and in the application all the most important, interesting and favorite from the TV channels and radio stations of the All-Russian State Television and Radio Broadcasting Company. "Smotrim.ru" is news in real time, talk shows, feature films and documentaries, TV series premieres and children's programs.
         </description>
