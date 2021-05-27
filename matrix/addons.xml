@@ -58,7 +58,7 @@
         </assets>
         <source>https://github.com/abratchik/plugin.video.smotrim.ru</source>
     </extension>
-</addon><addon id="script.unlock.advancedsettings" name="Unlock Kodi Advanced Settings" version="1.0.0" provider-name="Alex Bratchik">
+</addon><addon id="script.unlock.advancedsettings" name="Unlock Kodi Advanced Settings" version="1.0.1" provider-name="Alex Bratchik">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
     </requires>
@@ -82,6 +82,7 @@
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
+            <screenshot>resources/screenshot-01.png</screenshot>
         </assets>
     </extension>
 </addon></addons>
