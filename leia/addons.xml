@@ -58,7 +58,7 @@
         </assets>
         <source>https://github.com/abratchik/plugin.video.smotrim.ru</source>
     </extension>
-</addon><addon id="script.unlock.advancedsettings" name="Unlock Kodi Advanced Settings" version="1.0.1" provider-name="Alex Bratchik">
+</addon><addon id="script.unlock.advancedsettings" name="Unlock Kodi Advanced Settings" version="1.0.2" provider-name="Alex Bratchik">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
     </requires>
@@ -66,7 +66,7 @@
         <provides>executable</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <news>First release</news>
+        <news>Fixed bugs</news>
         <platform>all</platform>
         <summary lang="en_GB">Unlock Kodi advanced settings</summary>
         <description lang="en_GB">This plugin allows you to unlock and edit the hidden advanced system settings of Kodi. Please note that Kodi restart is required so that the advanced settings become in effect.</description>
@@ -82,7 +82,7 @@
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
-            <screenshot>resources/screenshot-01.jpg</screenshot>
+            <screenshot>resources/screenshot-01.png</screenshot>
         </assets>
     </extension>
 </addon></addons>
