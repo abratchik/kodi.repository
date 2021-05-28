@@ -58,7 +58,7 @@
         </assets>
         <source>https://github.com/abratchik/plugin.video.smotrim.ru</source>
     </extension>
-</addon><addon id="script.unlock.advancedsettings" name="Unlock Kodi Advanced Settings" version="1.0.2" provider-name="Alex Bratchik">
+</addon><addon id="script.unlock.advancedsettings" name="Unlock Kodi Advanced Settings" version="1.0.3" provider-name="Alex Bratchik">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
     </requires>
@@ -78,7 +78,7 @@
         <language>ru en</language>
         <license>GPL-3.0-or-later</license>
         <source>https://github.com/abratchik/script.unlock.advancedsettings</source>
-        <forum />
+        <forum>https://forum.kodi.tv/showthread.php?tid=362847</forum>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
