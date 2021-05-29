@@ -26,13 +26,13 @@
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
-</addon><addon id="plugin.video.smotrim.ru" version="1.1.6" name="Smotrim.ru" provider-name="Alex Bratchik">
+</addon><addon id="plugin.video.smotrim.ru" version="1.1.7" name="Smotrim.ru" provider-name="Alex Bratchik">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
     </requires>
     <extension point="xbmc.python.pluginsource" library="main.py">
-        <provides>video</provides>
+        <provides>video audio</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
         <news>Bug fixing</news>
@@ -52,9 +52,9 @@
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
-            <screenshot>resources\screenshot-01.jpg</screenshot>
-            <screenshot>resources\screenshot-02.jpg</screenshot>
-            <screenshot>resources\screenshot-03.jpg</screenshot>
+            <screenshot>resources/screenshot-01.jpg</screenshot>
+            <screenshot>resources/screenshot-02.jpg</screenshot>
+            <screenshot>resources/screenshot-03.jpg</screenshot>
         </assets>
         <source>https://github.com/abratchik/plugin.video.smotrim.ru</source>
     </extension>
