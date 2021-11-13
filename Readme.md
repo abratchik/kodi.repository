@@ -1,6 +1,7 @@
 # Kodi addon repository
 
-This is a non-commercial addon repository maintained by Alex Bratchik.
+This is a non-commercial addon repository for [Kodi mediacenter](https://kodi.tv) 
+maintained by Alex Bratchik.
 It has been created for fun so you are free to use it in  accordance 
 with GPL v.3 license.
 
