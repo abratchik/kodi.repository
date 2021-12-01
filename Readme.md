@@ -14,9 +14,9 @@ File Manager of your Kodi setup. The steps are below:
 1. Navigate to the System menu and click on File Manager
 2. Select "Add source". 
 3. Click on <None> and add the path 
-   [https://abratchik.github.io/kodi.repository/matrix/repository.abratchik/](https://abratchik.github.io/kodi.repository/matrix/repository.abratchik/)
+   **https://abratchik.github.io/kodi.repository/matrix/repository.abratchik/**
    for Matrix, or 
-   [https://abratchik.github.io/kodi.repository/leia/repository.abratchik/](https://abratchik.github.io/kodi.repository/leia/repository.abratchik/)
+   **https://abratchik.github.io/kodi.repository/leia/repository.abratchik/**
    for Leia.
 4. Please ensure you entered the correct path for the version of your Kodi.
 5. Enter a name for this media source - "Alex Bratchik Kodi Repo"
