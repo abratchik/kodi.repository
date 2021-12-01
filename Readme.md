@@ -37,12 +37,9 @@ Enjoy!
 ## Zip Folders
 <pre>
 <img src="icons/blank.gif" alt="Icon " > <a href="?C=N;O=D">Name</a> 
-<img src="icons/folder.gif" alt="[DIR]" > <a href="leia/repository.abratchik/">Leia/</a> 
-<img src="icons/folder.gif" alt="[DIR]" > <a href="matrix/repository.abratchik/">Matrix/</a> 
+<img src="icons/folder.gif" alt="[DIR]" > <a href="leia/">leia/</a> 
+<img src="icons/folder.gif" alt="[DIR]" > <a href="matrix/">matrix/</a> 
 </pre>
-
-[https://abratchik.github.io/kodi.repository/leia/repository.abratchik/](https://abratchik.github.io/kodi.repository/leia/repository.abratchik/) 
-
 
 ## License
 
