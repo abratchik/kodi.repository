@@ -13,17 +13,16 @@ File Manager of your Kodi setup. The steps are below:
 
 1. Navigate to the **System** menu and click on **File Manager**
 2. Select **Add source**. 
-3. Click on **None** and add the path 
-   [https://abratchik.github.io/kodi.repository/matrix/repository.abratchik/](https://abratchik.github.io/kodi.repository/matrix/repository.abratchik/)
-   for Matrix, or 
-   [https://abratchik.github.io/kodi.repository/leia/repository.abratchik/](https://abratchik.github.io/kodi.repository/leia/repository.abratchik/)
-   for Leia.
+3. Click on **None** and add the path **https://abratchik.github.io/kodi.repository/**.
 4. Please ensure you entered the correct path for the version of your Kodi.
 5. Enter a name for this media source - "Alex Bratchik Kodi Repo"
 6. Click **OK** to save your changes
-7. Press Esc to exit **File Manager** and open **Add-ons** menu
-8. Click **Install from zip file** (your Kody may give you security warning, just ignore)
-   and then select "Alex Bratchik Kodi Repo"
+7. Press Esc to exit **File Manager** and open **Add-ons** menu.
+8. Click **Install from zip file** (your Kodi may give you security warning, just ignore)
+   and then select "Alex Bratchik Kodi Repo". Navigate to the folder 
+   [Matrix](https://abratchik.github.io/kodi.repository/matrix/repository.abratchik/), or 
+   [Leia](https://abratchik.github.io/kodi.repository/leia/repository.abratchik/),
+   depending on the version of your Kodi.
 9. You will see a zip file - for example **repository.abratchik-1.0.2.zip**. Click on it
    and install.
    
