@@ -34,11 +34,13 @@ Kodi setup and install from there.
 
 Enjoy!
 
-## Folders
+## Zip Folders
 <pre>
-<a href="leia/repository.abratchik/">Leia/</a>
-<a href="https://abratchik.github.io/kodi.repository/matrix/repository.abratchik/">Matrix/</a>
+<img src="icons/blank.gif" alt="Icon "> <a href="?C=N;O=D">Name</a>
+<img src="icons/folder.gif" alt="[DIR]"> <a href="leia/repository.abratchik/">Leia/</a>
+<img src="icons/folder.gif" alt="[DIR]"> <a href="matrix/repository.abratchik/">Matrix/</a>
 </pre>
+
 ## License
 
 [GPL v.3](http://www.gnu.org/copyleft/gpl.html)
