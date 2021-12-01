@@ -40,7 +40,10 @@ Enjoy!
 <img src="icons/folder.gif" alt="[DIR]" > <a href="leia/repository.abratchik/">Leia/</a> 
 <img src="icons/folder.gif" alt="[DIR]" > <a href="matrix/repository.abratchik/">Matrix/</a> 
 </pre>
- 
+
+[https://abratchik.github.io/kodi.repository/leia/repository.abratchik/](https://abratchik.github.io/kodi.repository/leia/repository.abratchik/) 
+
+
 ## License
 
 [GPL v.3](http://www.gnu.org/copyleft/gpl.html)
