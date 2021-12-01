@@ -35,8 +35,8 @@ Kodi setup and install from there.
 Enjoy!
 
 ## Folders
-[leia/repository.abratchik/](https://abratchik.github.io/kodi.repository/leia/repository.abratchik/)
-[matrix/repository.abratchik/](https://abratchik.github.io/kodi.repository/matrix/repository.abratchik/)
+[https://abratchik.github.io/kodi.repository/leia/repository.abratchik/](leia/repository.abratchik/)
+[https://abratchik.github.io/kodi.repository/matrix/repository.abratchik/](matrix/repository.abratchik/)
 
 ## License
 
