@@ -20,8 +20,8 @@ File Manager of your Kodi setup. The steps are below:
 7. Press Esc to exit **File Manager** and open **Add-ons** menu.
 8. Click **Install from zip file** (your Kodi may give you security warning, just ignore)
    and then select "Alex Bratchik Kodi Repo". Navigate to the folder 
-   **Matrix**, or 
-   **Leia**,
+   **matrix**, or 
+   **leia**,
    depending on the version of your Kodi.
 9. You will see a zip file - for example **repository.abratchik-1.0.2.zip**. Click on it
    and install.
