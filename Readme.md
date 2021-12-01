@@ -36,8 +36,8 @@ Enjoy!
 
 ## Folders
 <pre>
-<a href="leia/repository.abratchik/">Leia</a>
-<a href="https://abratchik.github.io/kodi.repository/matrix/repository.abratchik/">Matrix</a>
+<a href="leia/repository.abratchik/">Leia/</a>
+<a href="https://abratchik.github.io/kodi.repository/matrix/repository.abratchik/">Matrix/</a>
 </pre>
 ## License
 
