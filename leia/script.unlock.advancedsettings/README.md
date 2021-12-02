@@ -17,6 +17,3 @@ You can read more about this addon [here](https://forum.kodi.tv/showthread.php?t
 <img src="../../icons/compressed.gif" alt="[ZIP]" > <a href="script.unlock.advancedsettings-1.0.3.zip">script.unlock.advancedsettings-1.0.3.zip</a> 
 <img src="../../icons/compressed.gif" alt="[ZIP]" > <a href="script.unlock.advancedsettings-1.0.2.zip">script.unlock.advancedsettings-1.0.2.zip</a> 
 </pre>
-## License 
- GPL-3.0-or-later
-

@@ -21,3 +21,6 @@ You can read more about this addon [here](http://xbmc.ru/forum/showthread.php?t=
 <img src="../../icons/compressed.gif" alt="[ZIP]" > <a href="plugin.video.smotrim.ru-1.1.15.zip">plugin.video.smotrim.ru-1.1.15.zip</a> 
 <img src="../../icons/compressed.gif" alt="[ZIP]" > <a href="plugin.video.smotrim.ru-1.1.14.zip">plugin.video.smotrim.ru-1.1.14.zip</a> 
 </pre>
+## License 
+ GPL-3.0-or-later
+
