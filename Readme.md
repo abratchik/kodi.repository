@@ -22,11 +22,12 @@ File Manager of your Kodi setup. The steps are below:
    and then select "Alex Bratchik Kodi Repo". Navigate to the folder 
    **matrix**, or 
    **leia**,
-   depending on the version of your Kodi.
+   depending on the version of your Kodi, and then open **repository.abratchik** folder.
 9. You will see a zip file - for example **repository.abratchik-1.0.2.zip**. Click on it
    and install.
    
-That's it.
+After this, Alex Bratchik Addon repository will be added to the list of available repositories
+in your Kodi setup.
 
 If you want to shortcut these steps, you may also download the zip file directly 
 from any browser using the links above, place it in the Home folder of your
