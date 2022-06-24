@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="plugin.video.smotrim.ru"
-    version="1.2.0"
+    version="1.2.1"
     name="Smotrim.ru"
     provider-name="Alex Bratchik">
     <requires>
