@@ -39,7 +39,7 @@ Enjoy!
 
 ## Zip Folders
 
-<pre>
+<pre style="padding-top: 8px; padding-right: 15px; padding-bottom: 8px; padding-left: 15px">
 <img src="icons/folder.gif" alt="[DIR]" width="20" height="22"/> <a href="leia/">leia/</a> 
 <img src="icons/folder.gif" alt="[DIR]" width="20" height="22"/> <a href="matrix/">matrix/</a> 
 </pre>
