@@ -1,6 +1,6 @@
 # Alex Bratchik Kodi Addon Repository 
-[![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/abratchik/kodi.repository/blob/master/Readme.md)
-[![ru-ru](https://img.shields.io/badge/lang-ru--ru-red.svg)](https://github.com/abratchik/kodi.repository/blob/master/Readme.ru-ru.md)
+[![en](https://img.shields.io/badge/lang-en-green.svg)](./Readme.md)
+[![ru-ru](https://img.shields.io/badge/lang-ru--ru-red.svg)](./Readme.ru-ru.md)
 
 
 Это репозиторий бесплатных дополнений к [медиацентру Kodi](https://kodi.tv), 

@@ -1,6 +1,6 @@
 # Alex Bratchik Kodi Addon Repository 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/abratchik/kodi.repository/blob/master/Readme.md)
-[![ru-ru](https://img.shields.io/badge/lang-ru--ru-green.svg)](https://github.com/abratchik/kodi.repository/blob/master/Readme.ru-ru.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](./Readme.md)
+[![ru-ru](https://img.shields.io/badge/lang-ru--ru-green.svg)](./Readme.ru-ru.md)
 
 This is a non-commercial addon repository for [Kodi mediacenter](https://kodi.tv) 
 maintained by Alex Bratchik.
