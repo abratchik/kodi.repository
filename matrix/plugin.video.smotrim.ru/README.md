@@ -1,5 +1,5 @@
 # Smotrim.ru
-Release 1.2.7
+Release 1.2.8
 
 We have collected for you on one site and in the application all the most important, interesting and favorite from the TV channels and radio stations of the All-Russian State Television and Radio Broadcasting Company. "Smotrim.ru" is news in real time, talk shows, feature films and documentaries, TV series premieres and children's programs.
         
@@ -16,6 +16,7 @@ You can read more about this addon [here](http://xbmc.ru/forum/showthread.php?t=
 ## Zip Archives
 <pre>
 <img src="../../icons/folder.gif" alt="[DIR]" > <a href="../">../</a> 
+<img src="../../icons/compressed.gif" alt="[ZIP]" > <a href="plugin.video.smotrim.ru-1.2.8.zip">plugin.video.smotrim.ru-1.2.8.zip</a> 
 <img src="../../icons/compressed.gif" alt="[ZIP]" > <a href="plugin.video.smotrim.ru-1.2.7.zip">plugin.video.smotrim.ru-1.2.7.zip</a> 
 <img src="../../icons/compressed.gif" alt="[ZIP]" > <a href="plugin.video.smotrim.ru-1.2.6.zip">plugin.video.smotrim.ru-1.2.6.zip</a> 
 <img src="../../icons/compressed.gif" alt="[ZIP]" > <a href="plugin.video.smotrim.ru-1.2.4.zip">plugin.video.smotrim.ru-1.2.4.zip</a> 
