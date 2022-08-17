@@ -16,14 +16,9 @@ You can read more about this addon [here](http://xbmc.ru/forum/showthread.php?t=
 ## Zip Archives
 <pre>
 <img src="../../icons/folder.gif" alt="[DIR]" > <a href="../">../</a> 
-<img src="../../icons/compressed.gif" alt="[ZIP]" > <a href="plugin.video.smotrim.ru-1.2.14.zip">plugin.video.smotrim.ru-1.2.14.zip</a> 
-<img src="../../icons/compressed.gif" alt="[ZIP]" > <a href="plugin.video.smotrim.ru-1.2.15.zip">plugin.video.smotrim.ru-1.2.15.zip</a> 
 <img src="../../icons/compressed.gif" alt="[ZIP]" > <a href="plugin.video.smotrim.ru-1.3.5.zip">plugin.video.smotrim.ru-1.3.5.zip</a> 
 <img src="../../icons/compressed.gif" alt="[ZIP]" > <a href="plugin.video.smotrim.ru-1.3.7.zip">plugin.video.smotrim.ru-1.3.7.zip</a> 
 <img src="../../icons/compressed.gif" alt="[ZIP]" > <a href="plugin.video.smotrim.ru-1.3.6.zip">plugin.video.smotrim.ru-1.3.6.zip</a> 
-<img src="../../icons/compressed.gif" alt="[ZIP]" > <a href="plugin.video.smotrim.ru-1.3.2.zip">plugin.video.smotrim.ru-1.3.2.zip</a> 
-<img src="../../icons/compressed.gif" alt="[ZIP]" > <a href="plugin.video.smotrim.ru-1.3.3.zip">plugin.video.smotrim.ru-1.3.3.zip</a> 
-<img src="../../icons/compressed.gif" alt="[ZIP]" > <a href="plugin.video.smotrim.ru-1.3.1.zip">plugin.video.smotrim.ru-1.3.1.zip</a> 
 </pre>
 ## License 
  GPL-3.0-or-later
