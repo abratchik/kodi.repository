@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="plugin.video.yandex.zen"
-    version="0.1.0"
+    version="0.2.0"
     name="Yandex Zen"
     provider-name="Alex Bratchik">
     <requires>
@@ -11,7 +11,7 @@
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <news>First release</news>
+        <news>Bugfixes</news>
         <summary lang="en_GB">Yandex Zen Kodi Video Addon</summary>
         <description lang="en_GB">Zen is a multi-format platform for creating and viewing content. Here you can do everything: shoot videos or short videos, write articles, share photos in posts or broadcast live - communicate with your audience in different ways.
         </description>
@@ -24,7 +24,6 @@
         </disclaimer>
         <language>ru en</language>
         <licence>GPL-3.0-or-later</licence>
-        <forum>http://xbmc.ru/forum/showthread.php?t=23431</forum>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
