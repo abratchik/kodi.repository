@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="plugin.video.yandex.zen"
-    version="0.2.0"
+    version="0.3.0"
     name="Yandex Zen"
     provider-name="Alex Bratchik">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.requests"/>
-        <import addon="script.module.PyJWT"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="main.py">
         <provides>video</provides>
