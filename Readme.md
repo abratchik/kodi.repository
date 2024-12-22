@@ -42,6 +42,7 @@ Enjoy!
 <pre>
 <img src="icons/folder.gif" alt="[DIR]" width="20" height="22"/> <a href="leia/">leia/</a> 
 <img src="icons/folder.gif" alt="[DIR]" width="20" height="22"/> <a href="matrix/">matrix/</a> 
+<img src="icons/folder.gif" alt="[DIR]" width="20" height="22"/> <a href="omega/">omega/</a> 
 </pre>
 
 ## License
